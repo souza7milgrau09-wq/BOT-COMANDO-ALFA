@@ -5,7 +5,7 @@ import random
 from datetime import datetime, timedelta
 
 import os
-TOKEN = os.getenv("MTQ4NTI4NTIzODczMTk2NDQ4Ng.G8qITQ.mmR-qUvltKDweUv1PuxY-AllO_bGgPazkYCsBM")
+TOKEN=os.getenv("MTQ4NTI4NTIzODczMTk2NDQ4Ng.G8qITQ.mmR-qUvltKDweUv1PuxY-AllO_bGgPazkYCsBM")
 DONO_ID = 1349812947160924253
 
 intents = discord.Intents.all()
